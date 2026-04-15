@@ -1,0 +1,6 @@
+2026-04-15 13:55:37,733 - INFO - Placing MOCK MARKET order: BTCUSDT BUY 0.01
+2026-04-15 13:55:38,735 - INFO - Market Order Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'orderId': 637776, 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 64376.28}
+2026-04-15 13:56:39,119 - INFO - Placing MOCK LIMIT order: BTCUSDT SELL 0.01 @ 60000.0
+2026-04-15 13:56:40,122 - INFO - Limit Order Response: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'orderId': 897484, 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 60000.0}
+2026-04-15 14:01:20,810 - INFO - Placing MOCK MARKET order: BTCUSDT BUY 0.01
+2026-04-15 14:01:21,811 - INFO - Market Order Response: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'orderId': 361469, 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 59866.52}
